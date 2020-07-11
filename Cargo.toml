@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "photo-analyzer",
+  "photo-analyzer-cli",
+]
